@@ -32,6 +32,8 @@ Deploying an Enix smart contract is an easy task thank to Wallet’s Deploy Cont
 Once you have those three ready, the first two of which you can get once your smart contract is compiled, you can head over to Wallet and deploy:
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.03.49.jpeg)
-Compiling https://etherscan.io/address/0x167cb3f2446f829eb327344b66e271d1a7efec9a as an example for ENIX Blockchain
+Compiling https://etherscan.io/address/0x167cb3f2446f829eb327344b66e271d1a7efec9a#code as an example for ENIX Blockchain, Gandhiji is a smart contract dapp for ETH https://gandhiji.io
+
+
 
 
