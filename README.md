@@ -42,4 +42,6 @@ Once you have those three ready, the first two of which you can get once your sm
 
 - Ethfiddle.com
 
+Check compilied / securitiy issues.
 
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.18.34.png)
