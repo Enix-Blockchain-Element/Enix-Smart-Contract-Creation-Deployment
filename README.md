@@ -38,13 +38,19 @@ Once you have those three ready, the first two of which you can get once your sm
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.03.49.jpeg)
 
-Resulting in: 
+Resulting in: https://explorer.enix.ai/tx/0x0d24d2ea8272de0182aab3d833f24fcd0a5c927ddc120fb4d70e4ce22d9312fb/internal_transactions
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.22.14.png) 
 
 A deployed Smart Contract on the Enix Blockchain.
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.22.41.png)
+
+Interacting with the created contract is seamless.
+
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.28.21.png)
+
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.30.25.png)
 
 ## Other potential tools.
 
