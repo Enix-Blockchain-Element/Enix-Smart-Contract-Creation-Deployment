@@ -38,6 +38,14 @@ Once you have those three ready, the first two of which you can get once your sm
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.03.49.jpeg)
 
+Resulting in: 
+
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.22.14.png) 
+
+A deployed Smart Contract on the Enix Blockchain.
+
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.22.41.png)
+
 ## Other potential tools.
 
 - Ethfiddle.com
