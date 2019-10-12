@@ -1,4 +1,4 @@
-# SmartContract
+# Enix Smart Contract Creation and Deployment
 An Overview Guide on Creating/Deploying Smart Contracts on the ENIX Blockchain
 
 The Enix Blockchain itself focuses on distributed computational processing and/or large data transactions, however its core makeup allows the use and easy creation/deployment of smart contracts utilising either Solidity or Vyper which were created for the Ethereum blockchain for familiarity and cross chain requirements.
@@ -51,6 +51,15 @@ Interacting with the created contract is seamless.
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.28.21.png)
 
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/Screen%20Shot%202562-10-12%20at%2022.30.25.png)
+
+Rememeber to Verify the contract.
+
+![alt text](https://github.com/Enix-Blockchain-Element/Enix-Smart-Contract-Creation-Deployment/blob/master/photo_2562-10-12%2023.36.19.jpeg)
+
+Make sure the contract is operational like : https://explorer.enix.ai/address/0xed7e56a626ac71ab8f4b4dba667a45373b898533/transactions
+https://explorer.enix.ai/address/0xed7e56a626ac71ab8f4b4dba667a45373b898533/contracts
+https://explorer.enix.ai/address/0xed7e56a626ac71ab8f4b4dba667a45373b898533/read_contract
+
 
 ## Other potential tools.
 
