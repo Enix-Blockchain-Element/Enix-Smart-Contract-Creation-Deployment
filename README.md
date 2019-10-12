@@ -34,6 +34,9 @@ Once you have those three ready, the first two of which you can get once your sm
 ![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.03.49.jpeg)
 Compiling https://etherscan.io/address/0x167cb3f2446f829eb327344b66e271d1a7efec9a#code as an example for ENIX Blockchain, Gandhiji is a smart contract dapp for ETH https://gandhiji.io
 
+NOTE IMPORTANT: Language components would need to be composed as ethereum/Ethereum, however vars, consts, lets will need to be ENIX or other subtokenized element.
+
+
 
 
 
