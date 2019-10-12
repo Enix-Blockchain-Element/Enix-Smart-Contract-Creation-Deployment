@@ -36,7 +36,7 @@ NOTE IMPORTANT: Language components would need to be composed as ethereum/Ethere
 
 Once you have those three ready, the first two of which you can get once your smart contract is compiled, you can head over to Wallet https://wallet.enix.ai/#contracts and deploy:
 
-![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.03.49.jpeg)
+![alt text](https://github.com/Enix-Blockchain-Element/SmartContract/blob/master/photo_2562-10-12%2022.05.36.jpeg)
 
 Resulting in: https://explorer.enix.ai/tx/0x0d24d2ea8272de0182aab3d833f24fcd0a5c927ddc120fb4d70e4ce22d9312fb/internal_transactions
 
